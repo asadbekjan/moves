@@ -1,0 +1,56 @@
+.head {
+  font-size: 18px;
+}
+
+#roww {
+  margin-top: 100px;
+}
+
+#card-body {
+  font-size: 26px;
+}
+
+#input {
+  margin-top: 15px;
+}
+
+#button {
+  width: 120px;
+  height: 45px;
+  margin: 15px;
+}
+
+.heading {
+  margin-left: 25px;
+  font-size: 35px;
+}
+
+.text {
+  font-size: 25px;
+}
+
+#carta {
+  margin-left: 10px;
+}
+
+.card-img-top {
+  width: 650px;
+  height: 350px;
+}
+
+#col__1 {
+  margin-top: 25px;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.NAV {
+  margin: 15px;
+  margin-left: 175px;
+}
+
+#page:active {
+  background-color: rgb(110, 110, 211);
+}

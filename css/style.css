@@ -1,0 +1,13 @@
+.card-img-top {
+  width: 200px;
+  height: 450px;
+}
+
+.NAV {
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
+#page:active {
+  background-color: rgb(110, 110, 211);
+}
